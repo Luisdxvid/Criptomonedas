@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+footer {
+    width:100%;
+    align-self: flex-end;
+    flex-direction: column;
+}
+
+#container-riesgo {
+    margin-bottom: auto;
+}
